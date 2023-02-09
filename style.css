@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Mono:wght@200&display=swap');
+
+*{
+    padding:0;
+    margin: 0;
+}
+.header{
+    background-color: antiquewhite;
+}
+.body{
+
+    background-color: #b0c4de;
+}
+.nic{
+    padding-left: 234px;
+}
+.btn{
+    font-family:'Roboto Mono',sans-serif;
+    padding-bottom: 20%;
+    padding-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+.myimage img{
+    border-radius: 125px;
+    width: 300px;
+}
+.myimage{
+    padding-left:220px ;
+    padding-top:130px;
+}
+.desc{
+    float: right;
+    padding-top: 240px;
+    padding-right: 30px;
+    font-family:'Roboto Mono',sans-serif;
+    font-size: 135%;
+}
+.skills{
+    font-size:25px;
+    padding-top:10px;
+    padding-left:565px;
+    font-family:'Roboto Mono',sans-serif;
+    
+}
+.logo{
+    max-width: 1400px;
+    margin: auto;
+    overflow: auto;
+    padding-left: 200px;
+    padding-bottom: 60px;
+
+}
+.logos{ 
+    padding-left: 10px;
+    width: 250px;
+    float: left;
+}
+.zzz{
+    background-color:#2f4f4f;
+}
+.logow{
+    max-width: 1400px;
+    margin: auto;
+    overflow: auto;
+    padding-left: 465px;
+    padding-bottom: 60px;
+
+}
+.lalam{ 
+    padding-left: 10px;
+    width: 250px;
+    float: left;
+}
+.foot{
+    position: block;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(14, 15, 22);
+    padding-bottom: 20px;
+}
+
+.cont{
+    padding-left: 300px;
+    padding-top: 30px;
+    color: white;
+    font-family:'Roboto Mono',sans-serif;
+
+
+}
+.cont p{
+    padding-top: 20px;
+    font-size: medium;
+
+
+}
+.cont h2{
+    font-size:25px;
+
+}
+
+.footlogo img{
+float: right;
+ padding-top: 70px;
+ padding-right: 30px;
+
+
+
+}
+.footlogo{
+
+ padding-right: 400px;
+}
