@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Raleway:wght@100&family=Roboto+Mono:wght@200&display=swap');
+*{
+    padding:0;
+    margin: 0;
+}
+
+.bod{
+
+    background-color: black;
+    
+    
+}
+.btn{
+    font-family:'Bebas Neue',sans-serif;
+    padding-top: 8px;
+    text-align: right;
+    font-size: 18px; 
+    padding-right:20px ;
+    word-spacing: 15px;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+.btn a{
+    color: black;
+}
+.foot{
+    position: block;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(14, 15, 22);
+    padding-bottom: 20px;
+}
+
+.cont{
+    padding-left: 300px;
+    padding-top: 30px;
+    color: white;
+    font-family:'Bebas Neue',sans-serif;
+
+
+}
+.cont p{
+    padding-top: 20px;
+    font-size: medium;
+
+
+}
+.cont h2{
+    font-size:25px;
+
+}
+
+.footlogo img{
+float: right;
+ padding-top: 70px;
+ padding-right: 30px;
+
+
+
+}
+.footlogo{
+
+ padding-right: 400px;
+}
+.restopic img{
+    width: 30%;
+    padding-top:120px ;
+    padding-left: 100px;
+    
+}
+.projects h2{
+    font-family:'Bebas Neue',sans-serif;
+    padding-top: 5px;
+    padding-left: 590px;
+    color: white;
+    font-size: 200%;
+   
+    
+    
+}
+ 
+.projectdesc{
+    padding-bottom: 100px;
+    font-family:'Bebas Neue',sans-serif;
+}
+.desc{
+    float: right;
+    padding-top: 170px;
+    padding-right: 420px;
+
+
+}
+.desc p{
+    color: red;
+}
+.desc2{
+    float: right;
+    padding-top: 170px;
+    padding-right: 550px;
+    
+}
+.desc2 p{
+    color: red;
+}
+.desc3 p{
+    color: red;
+}
+.desc4 p{
+    color: red;
+}
+.desc5 p{
+    color: red;
+}
+
+.desc3{
+    float: right;
+    padding-top: 170px;
+    padding-right: 390px;
+    
+}
+.desc4{
+    float: right;
+    padding-top: 170px;
+    padding-right: 250px;
+    
+}
+
+.desc5{
+    float: right;
+    padding-top: 170px;
+    padding-right: 375px;
+    
+}
+
+
+.cont span{
+    color: red;
+}
+.cont span{
+    color: red;
+}
+
+.projects span{
+    color: red;
+}
