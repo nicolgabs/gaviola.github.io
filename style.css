@@ -5,21 +5,34 @@
 }
 .header{
     background-color:white;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.logopic img{
+    width: 100%;
+    max-width: 40px;
+    height: auto;
+    padding-left: 645px;
+   
     
 }
 .sulat{
+  
     background-color: black;
+  
 }
 .nic{
     padding-left: 234px;
 }
 .btn{
     font-family:'Bebas Neue',sans-serif;
-    padding-top: 8px;
     text-align: right;
     font-size: 18px; 
     padding-right:20px ;
     word-spacing: 15px;
+  
 }
 a:hover{
     
