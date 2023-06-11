@@ -106,19 +106,20 @@ float: right;
 }
 .desc{
     float: right;
-    padding-top: 170px;
+    padding-top: 205px;
     padding-right: 420px;
 
 
 }
-.desc p{
-    color: red;
-}
+
 .desc2{
     float: right;
-    padding-top: 170px;
+    padding-top: 180px;
     padding-right: 550px;
     
+}
+.desc p{
+    color: red;
 }
 .desc2 p{
     color: red;
@@ -135,30 +136,39 @@ float: right;
 .desc6 p{
     color: red;
 }
+.desc7 p{
+    color: red;
+}
+
 
 .desc3{
     float: right;
-    padding-top: 170px;
+    padding-top: 180px;
     padding-right: 390px;
     
 }
 .desc4{
     float: right;
-    padding-top: 170px;
+    padding-top: 180px;
     padding-right: 250px;
     
 }
 
 .desc5{
     float: right;
-    padding-top: 170px;
+    padding-top: 180px;
     padding-right: 375px;
     
 }
 .desc6{
     float: right;
-    padding-top: 170px;
+    padding-top: 180px;
     padding-right: 353px; 
+}
+.desc7{
+    float: right;
+    padding-top: 180px;
+    padding-right: 380px; 
 }
 
 

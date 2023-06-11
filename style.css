@@ -36,7 +36,7 @@
 }
 a:hover{
     
-    text-decoration: underline;
+    text-decoration: none;
 }
 a{
     text-decoration: none;
@@ -51,8 +51,9 @@ a{
     border-radius: 5px;
     font-size: 16px;
   }
+
   
-  .my-button:hover {
+.my-button:hover {
     background-color:white;
     text-decoration: none;
   }
@@ -60,6 +61,9 @@ a{
 .btn a{
     color: black;
 }
+.btn a:hover {
+    color: red;
+  }
 .myimage img{
     border-radius: 50px;
     width: 300px;
