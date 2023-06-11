@@ -132,6 +132,9 @@ float: right;
 .desc5 p{
     color: red;
 }
+.desc6 p{
+    color: red;
+}
 
 .desc3{
     float: right;
@@ -151,6 +154,11 @@ float: right;
     padding-top: 170px;
     padding-right: 375px;
     
+}
+.desc6{
+    float: right;
+    padding-top: 170px;
+    padding-right: 353px; 
 }
 
 
