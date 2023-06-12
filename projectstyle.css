@@ -25,6 +25,7 @@
    
     
 }
+
 .btn{
     font-family:'Bebas Neue',sans-serif;
     padding-top: 8px;
@@ -43,6 +44,11 @@ a{
 .btn a{
     color: black;
 }
+.btn a:hover {
+    text-decoration: none;
+    color: red;
+  }
+
 .foot{
     position: block;
     width: 100%;
